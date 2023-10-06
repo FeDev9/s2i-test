@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "federicocecconi",
+    "password": "",
+    "database": "federicocecconi",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "test_username",
+    "password": "test_password",
+    "database": "test_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "prod_username",
+    "password": "prod_password",
+    "database": "prod_database",
+    "host": "prod_host",
+    "dialect": "postgres"
+  }
+}
